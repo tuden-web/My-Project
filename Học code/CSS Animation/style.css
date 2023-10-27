@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.box {
+    width: 50px;
+    height: 50px;
+}
+
+.blue  {
+    background-color: blue;
+    /* transition-property: background-color, width;
+    transition-duration: 2s;
+    /* transition-delay: 2000ms; */
+    /* transition-timing-function: ease-in-out, ease-in; */
+    transition: all 2s ease-in-out;
+}
+
+.blue:hover {
+    background-color: brown;
+    width: 250px;
+}
+
+.yellow {
+    background-color: yellow;
+}
