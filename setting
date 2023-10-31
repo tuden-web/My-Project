@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Shades of Purple (Super Dark)",
+    "explorer.confirmDelete": false,
+    "editor.minimap.enabled": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.fontFamily": "'Fira code', Monaco, 'Courier New', monospace",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "editor.fontLigatures": true,
+    "editor.tokenColorCustomizations": {
+
+    }
+}
